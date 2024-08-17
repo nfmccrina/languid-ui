@@ -1,0 +1,13 @@
+.text-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 15%;
+  margin-right: 2%;
+  width: 83%;
+  padding: 10px;
+}
+
+.app-bar-item {
+  margin-left: 10px;
+  margin-right: 10px;
+}
